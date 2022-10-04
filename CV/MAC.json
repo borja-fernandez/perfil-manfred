@@ -1,0 +1,517 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Borja",
+      "surnames": "Fernandez Serrano",
+      "description": "Soy una persona entusiasta de la tecnología y con 20 años de experiencia en el mundo de la programación.\nLa programación es mi pasión, me gusta poder construir aplicaciones que ayuden a la gente en su día a día. Tanto es así que he ido aprendiendo diferentes lenguajes según las necesidades del cliente o por iniciativa propia. He pasado por lenguajes tan distintos como Cobol, Visual Basic, o Java para conformar un perfil muy versátil. \nMe gusta trabajar en equipo y estar en contacto siempre con mis compañeros, por lo que un teletrabajo de forma híbrida no me disgusta.\nActualmente trabajo en metodología Agile, con las típicas dailys a primera hora así como demos, plannings o retros a final de cada sprint.\nAl gustarme la programación, no me cierro a aprender nuevos lenguajes y tecnologías, prefiero saber un poco de todo y tener una visión más general que ser especialista en un sólo lenguaje.\nBusco nuevos retos que me motiven.",
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://es.linkedin.com/in/borjafernandezserrano"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Me gusta mucho la inversión",
+        "fact": "Me gusta la inversión en fondos de inversión como por ejemplo fondos indexados o fondos de gestoras independientes.\nIntento huir de los fondos de los grandes bancos ya que no miran por el cliente."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ford Credit (Indra)"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Bakend en Java",
+            "startDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Creación y mantenimiento de nuevos microservicios REST en aplicativo en la nube en Pivotal Clould Foundry e implicación en la arquitectura de la interconexión de los servicios y de éstos con servicios externos. Realización de pruebas (integración y regresión) así como su automatización. \nRealización también de presentaciones a la entrega de cada Sprint e incluso creación de paneles en Splunk"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Splunk",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ford Credit (Indra)"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador en Cobol & Java-AS400",
+            "startDate": "2012-12-01",
+            "finishDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Realización de evolutivos en la aplicación bancaria internacional de la financiera llevando a cabo análisis técnicos, programación, pruebas unitarias y de integración, puesta en producción y documentación final.\nRealización clientes de servicios web con diferentes tipos de conexiones: HTTPS, SOAP, REST Y SQL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Mainframe",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA (ATOS)"
+        },
+        "roles": [
+          {
+            "name": "Analista en Cobol-VMS",
+            "startDate": "2009-10-01",
+            "finishDate": "2012-12-01",
+            "challenges": [
+              {
+                "description": "Realización de proyectos sobre aplicación de Activos Financieros y Fondos de Inversión en Cobol Host, realizando análisis técnicos, cuadernos de carga, y pruebas integrales, supervisando a un programador"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA (ATOS)"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador en Visual Basic",
+            "startDate": "2007-10-01",
+            "finishDate": "2009-10-01",
+            "challenges": [
+              {
+                "description": "Realización de mantenimiento y evolutivos sobre aplicación de fondos Inmobiliarios en Visual Basic, realizando cuadernos de carga, desarrollos y pruebas unitarias, supervisando a un programador"
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour (Capgemini)"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador en Cobol-AS400",
+            "startDate": "2005-10-01",
+            "finishDate": "2007-05-01",
+            "challenges": [
+              {
+                "description": "Realización de evolutivos del aplicativo del cliente, realizando diseños técnicos, desarrollo y cuadernos de carga, supervisando hasta 3 programadores junior"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Mainframe",
+                "type": "technology"
+              },
+              {
+                "name": "JCL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Seguros (Primma Software)"
+        },
+        "roles": [
+          {
+            "name": "Programador en Cobol-AS400",
+            "startDate": "2001-09-01",
+            "finishDate": "2005-10-01",
+            "challenges": [
+              {
+                "description": "Realización de mantenimiento de aplicación integral de seguros, modificando CL’s, programas, pantallas y ficheros de impresora"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Mainframe",
+                "type": "technology"
+              },
+              {
+                "name": "JCL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Creación de ERP en Visual Basic",
+          "description": "Creación de aplicativo en Visual Basic y MS Access para la gestión de PYMES: gestión de clientes y productos, gestión de facturas"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2007-06-01",
+            "finishDate": "2007-11-01",
+            "competences": [
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Aplicación de gestión de contratos electrónicos",
+          "description": "Pendiente"
+        },
+        "type": "launch",
+        "publishingDate": "2020-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Jenkins",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Migración de Fondos de Inversión"
+        },
+        "type": "launch",
+        "publishingDate": "2010-12-01",
+        "relatedCompetences": [
+          {
+            "name": "Cobol",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Splunk",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IBM Mainframe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Autoformación en Servicios con Spring Boot",
+        "startDate": "2019-08-01",
+        "finishDate": "2019-09-01",
+        "institution": {
+          "name": "UDEMI",
+          "description": "Curso online de microservicios con spring boot."
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso de Visual Basic",
+        "startDate": "2007-01-01",
+        "finishDate": "2007-03-01",
+        "institution": {
+          "name": "Formación Comunidad de Madrid",
+          "description": "Curso de 300 horas de visual Basic."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master en desarrollo en AS400 y Java",
+        "startDate": "2000-09-01",
+        "finishDate": "2001-07-01",
+        "institution": {
+          "name": "CFDTI",
+          "description": "Master de programación de 1 año de duración. En el master aprendí la base de Java, RPG y SQL."
+        },
+        "linkedCompetences": [
+          {
+            "name": "IBM Mainframe",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://es.linkedin.com/in/borjafernandezserrano"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Finance Operations",
+        "Software Architect"
+      ]
+    }
+  }
+}
