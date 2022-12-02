@@ -61,6 +61,10 @@
                 "type": "technology"
               },
               {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
                 "name": "SQL",
                 "type": "technology"
               },
