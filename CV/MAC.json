@@ -53,11 +53,19 @@
                 "type": "technology"
               },
               {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
                 "name": "Jenkins",
                 "type": "technology"
               },
               {
                 "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
                 "type": "technology"
               },
               {
