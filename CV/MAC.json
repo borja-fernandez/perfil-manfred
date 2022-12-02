@@ -304,6 +304,14 @@
             "type": "technology"
           },
           {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "RabbitMQ",
+            "type": "technology"
+          },
+          {
             "name": "SQLServer",
             "type": "technology"
           },
